@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "loging-124b0": {
+      "hosting": {
+        "probando": [
+          "loging-124b0"
+        ]
+      }
+    }
+  }
+}
